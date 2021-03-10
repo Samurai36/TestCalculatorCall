@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculate">Вызвать калькулятор</string>
+    <string name="app_name">Тест вызова калькулятора</string>
+    <string name="select_calc_app">Выберите приложение "Мой калькулятор"</string>
+</resources>

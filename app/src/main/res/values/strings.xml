@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestCalculatorCall</string>
+    <string name="calculate">Calculate call</string>
+    <string name="select_calc_app">select the "My calculator" app</string>
+</resources>
